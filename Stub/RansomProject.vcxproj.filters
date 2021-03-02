@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="khalsa_g.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="apis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_crypt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_peldr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_checks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_clib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_melt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_resolve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_rec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_registry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="khalsa_gui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="khalsa_checks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_clib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_crypt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_melt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_peldr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_rec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_resolve.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_registry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="khalsa_gui.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
