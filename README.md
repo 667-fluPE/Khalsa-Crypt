@@ -14,8 +14,7 @@ Encryption software coded in C.
  Must have strong solidworks foundation (: 
  
  
-
-### 
+```
                        ##  
                            
  ######    ####       ###  
@@ -41,4 +40,4 @@ Encryption software coded in C.
   ##  ##  ###  ##   #####    ####    ######    #####  
                                                       
                                                       
-                                                      ###
+```
